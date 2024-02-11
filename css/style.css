@@ -1,3 +1,4 @@
 body {
-    background: radial-gradient(to right, blue, red)
+    background: radial-gradient(to right, blue, red);
+    margin: 2;
 }
